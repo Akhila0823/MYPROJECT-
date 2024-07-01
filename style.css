@@ -1,0 +1,232 @@
+<body{
+background-color: rgba(41, 81, 184, 0.498);
+width:100%;
+height:100vh;
+font-family:sans-serif;
+}
+.cc{
+text-align:center;
+background-image:url("images/6.jpg");
+color:white;
+padding:50px;
+margin:auto;
+
+}
+.mm
+{
+ margin-right:30px;
+ margin-left:750px;
+ padding:10px;
+ }
+.in{
+margin-right:80px;
+}
+.image-container {
+      text-align: center;
+    }
+    .image-container img:last-child
+    {
+    margin-right:5px;
+    }
+    img {
+      width: 5cm;
+      display: inline; /* To remove any default space below the image */
+      margin: auto;
+      border:5px solid black;
+      border-radius:10px;
+      }
+
+    ul.menu,
+    ul.button,
+    ul.lb {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      margin-bottom:0.5em;
+      background-color:green;
+      overflow: hidden;
+    }
+    ul.button,
+    ul.lb{
+    background-color:orange;
+       padding:3px;
+    }
+    
+    ul.menu li,
+    ul.button li,
+    ul.lb li {
+      float: left;
+    }
+    
+    ul.menu li {
+      width: 25%;
+    }
+    
+    ul.menu li a,
+    ul.button li a,
+    ul.lb li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 0;
+      text-decoration: none;
+    }
+    
+    ul.menu li a:hover,
+    ul.button li a:hover,
+    ul.lb li a:hover {
+      background-color: black;
+    }
+    
+    ul.button,
+    ul.lb {
+      float: right;
+    }
+    
+    ul.button {
+      margin-right: 2em;
+    }
+    
+    ul.lb {
+      margin-right: 1em;
+    }
+.dd
+{
+      margin: 0;
+      padding: 0;
+      background-image: url("images/2.jpeg");
+      background-repeat: no-repeat;
+      background-size: cover;
+
+      min-height: 100vh;
+      position: relative;
+    }
+.off
+{
+background-image:url("images/6.jpg");
+color:white;   
+padding:50px;
+margin:auto;       
+}
+.cen1
+{
+
+margin-right:25em;
+}
+
+    .quote {
+      color: black;
+      font-size: 13px;
+      font-weight: bold;
+     
+      float: left;
+    }
+ .off{
+ margin-top:600px;
+ }
+    .a {
+      font-family: "Times New Roman", sans-serif;
+      font-size: 60px;
+      color: blue;
+      font-style: italic;
+      font-weight: bold;
+      margin: 0.1em 0;
+    }
+.pic
+{
+align:center;
+background-image:url("images/5.jpg");
+    background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom;
+      min-height: 145vh;
+      position: relative;
+      width:1800px;
+   margin-top:0;
+}
+.city-cell {
+            width: 6cm;
+           padding-right:2cm;
+            padding-left:5cm;
+            padding-top:1.2cm;/* This adds a gap between the cells */
+        }
+ .contact-details
+ {
+ width: 6cm;
+           
+            padding-left:5cm;
+        
+            }
+ 
+.pa{
+color:purple;
+}
+.signup{
+width:360px;
+height:800px;
+margin:auto;
+background:rgb(199, 199, 214);
+border-radius:3px;
+}
+.login{
+
+width:360px;
+height:800px;
+margin:auto;
+border-radius:3px;
+background-image:url("images/a.jpg");
+    background-repeat: no-repeat;
+      background-size: cover;
+      background-position: bottom;
+      min-height: 145vh;
+      position: relative;
+   margin-top:0;
+}
+}
+.login a{
+color:red;
+}
+h4{
+text-align:center;
+padding-top:15px;
+}
+form{
+width:300px;
+margin-left:200px;
+text-align:center;
+}
+form label{
+display:flex;
+margin-top:20px;
+font-size:18px;
+}
+form input{
+width:100%;
+padding:7px;
+border:none;
+border:1px solid gray;
+border-radius:6px;
+outline:none;
+}
+input[type="submit"]{
+width:320px;
+height:35px;
+margin-top:20px;
+border:none;
+background-color:#ff7200;
+color:white;
+font-size:18px;
+cursor:pointer;
+}
+input[type="submit"]:hover{
+color:white;
+background:rgb(13,211,247);
+}
+p{
+
+text-align:center;
+padding-top:20px;
+}
+
+
+
